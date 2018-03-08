@@ -38,7 +38,7 @@ Besides regular numbers, there are so-called "special numeric values" which also
     ```js run
     alert( Infinity ); // Infinity
     ```
-- `NaN` represents a computational error. It is a result of an incorrect or an undefined mathematical operation, for instance:
+- `NaN` (Not a Number) represents a computational error. It is a result of an incorrect or an undefined mathematical operation, for instance:
 
     ```js run
     alert( "not a number" / 2 ); // NaN, such division is erroneous
